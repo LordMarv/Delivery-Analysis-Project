@@ -108,9 +108,9 @@ Source: Zomato Delivery Operations Dataset
 
 <h3>RECOMMENDATIONS:</h3> 
 
-•	Prioritize investigating habits and working patterns of the top rated delivery person in order to identify what brings such high results.
+•	Prioritize investigating the habits and working patterns of the top-rated delivery person to identify what brings such high results.
 
-• Use Findings to organise trainings and inform onboardingprograms across all age group to drive peformance ratings.
+• Use Findings to organise training and inform onboarding programs across all age groups to drive performance ratings.
 
 •	The business should cap multiple deliveries to at most 2 to reduce delivery time.
 
