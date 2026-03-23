@@ -108,7 +108,9 @@ Source: Zomato Delivery Operations Dataset
 
 <h3>RECOMMENDATIONS:</h3> 
 
-•	Prioritize hiring younger Delivery Persons in the future, preferably between the ages of 20 and 25.
+•	Prioritize investigating habits and working patterns of the top rated delivery person in order to identify what brings such high results.
+
+• Use Findings to organise trainings and inform onboardingprograms across all age group to drive peformance ratings.
 
 •	The business should cap multiple deliveries to at most 2 to reduce delivery time.
 
