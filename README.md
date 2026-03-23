@@ -3,7 +3,7 @@ Delve into the world of food delivery with the Zomato Delivery Dataset.  Analyzi
 
 <h1>ZOMATO DELIVERY PERFORMANCE ANALYSIS</h1>
 
-<img width="883" height="387" alt="zamato capture" src="https://github.com/user-attachments/assets/c8224d83-3646-4948-9f8f-914124dc0abb" />
+![Dashboard Preview](zamato%20capture.PNG)
 
 <h3>Case Study Outline</h3>
 
