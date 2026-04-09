@@ -77,9 +77,9 @@ Source: Zomato Delivery Operations Dataset
 
 <h3>Slicers:</h3> 
 
-• Traffic
+• Traffic.
 
-• City type
+• City type.
 
 <h3>KEY FINDINGS:</h3>
 
