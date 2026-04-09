@@ -3,7 +3,7 @@ Delve into the world of food delivery with the Zomato Delivery Dataset.  Analyzi
 
 <h1>ZOMATO DELIVERY PERFORMANCE ANALYSIS</h1>
 
-![Dashboard Preview](zamato%20capture.PNG)
+![Dashboard Preview](Zomato%20Delivery%20Dashboard.jpg)
 
 <h3>Case Study Outline</h3>
 
@@ -74,6 +74,12 @@ Source: Zomato Delivery Operations Dataset
 •	Added a new column called prep_time. Prep_time =time_order_picked-time_ordered
 
 •	Added a distance column by calculating distance from restaurant to delivery location using the haversine formula
+
+<h3>Slicers:</h3> 
+
+• Traffic
+
+• City type
 
 <h3>KEY FINDINGS:</h3>
 
