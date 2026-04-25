@@ -3,7 +3,7 @@ Delve into the world of food delivery with the Zomato Delivery Dataset.  Analyzi
 
 <h1>ZOMATO DELIVERY PERFORMANCE ANALYSIS</h1>
 
-![Dashboard Preview](Zomato%20Delivery%20Dashboard.jpg)
+![Dashboard Preview](Zomato%20Delivery%20Dashboard.PNG)
 
 <h3>Case Study Outline</h3>
 
