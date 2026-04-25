@@ -3,7 +3,7 @@ Delve into the world of food delivery with the Zomato Delivery Dataset.  Analyzi
 
 <h1>ZOMATO DELIVERY PERFORMANCE ANALYSIS</h1>
 
-![Dashboard Preview](Zomato%20Delivery%20Dashboard.PNG)
+![Dashboard Preview](Zomato%20Delivery%20Analysis%20Dashboard.PNG)
 
 <h3>Case Study Outline</h3>
 
@@ -110,6 +110,10 @@ Source: Zomato Delivery Operations Dataset
 <h3>Multiple Deliveries:</h3>
 
 •	Multiple deliveries do increase the average delivery time, as seen with the variable 3, which has an average time of 48 minutes,
+
+<h3>Vehicle Conditions</h3>
+
+Vehicles with poor conditions take longer delivery time with an avearage time taken of 30.22 minutes with Good conditions and Excelent conditions taking an average of 24.45 and 24.57 respectively. With the difference in time taken not so pronounced, it appears the condition of the car does not have a huge impact in time taken and deleivery ratings
 
 
 <h3>RECOMMENDATIONS:</h3> 
